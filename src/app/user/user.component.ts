@@ -1,14 +1,3 @@
-// import { Component } from '@angular/core';
-
-// @Component({
-//   selector: 'app-user',
-//   imports: [],
-//   templateUrl: './user.component.html',
-//   styleUrl: './user.component.css'
-// })
-// export class UserComponent {
-
-// }
 import { Component, inject, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { UserService } from '../user.service';

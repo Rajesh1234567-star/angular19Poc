@@ -1,13 +1,3 @@
-// import { Injectable } from '@angular/core';
-
-// @Injectable({
-//   providedIn: 'root'
-// })
-// export class UserService {
-
-//   constructor() { }
-// }
-
 import { Injectable, signal } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 
