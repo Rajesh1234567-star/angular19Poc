@@ -62,3 +62,20 @@ run on docker command -
 
 docker build -t angular19-poc .
 docker run -p 8080:80 angular19-poc
+
+
+
+Final Features in This POC
+Standalone Components + Signals
+
+HTTP API Call (Users)
+
+Standalone Routing
+
+JWT Auth (Login, Logout, Protected Routes)
+
+Token Expiry Handling
+
+Interceptor for Token & 401 Redirect
+
+Dockerized Deployment
